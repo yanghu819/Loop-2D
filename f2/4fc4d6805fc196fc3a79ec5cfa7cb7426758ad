@@ -1,0 +1,19 @@
+scripts/eval_inkling2_math.py
+  s_50275dd0698531::t_a35c5f913c4892 1-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f24fc4d6805fc196fc3a79ec5cfa7cb7426758ad",
+  "prompts": {},
+  "sessions": {
+    "s_50275dd0698531": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b1a6e93-f2a1-466d-9613-e536458e577b",
+        "model": "unknown"
+      },
+      "human_author": "yanghu819 <yanghu819@users.noreply.github.com>"
+    }
+  }
+}
