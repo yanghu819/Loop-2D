@@ -1,0 +1,50 @@
+.gitignore
+  h_72b8bc3c6fc4c8 1-10
+LICENSE
+  h_72b8bc3c6fc4c8 1-191
+README.md
+  h_72b8bc3c6fc4c8 1-128
+examples/minimal_3line_demo.py
+  h_72b8bc3c6fc4c8 1-359
+loop2d/__init__.py
+  h_72b8bc3c6fc4c8 1-15
+loop2d/loopres_2d.py
+  h_72b8bc3c6fc4c8 1-643
+loop2d/modeling_inkling2_sdtr.py
+  h_72b8bc3c6fc4c8 1-1806
+loop2d/normuon.py
+  h_72b8bc3c6fc4c8 1-130
+loop2d/sdtr_qwen3.py
+  h_72b8bc3c6fc4c8 1-603
+loop2d/triton_dual_rmsnorm.py
+  h_72b8bc3c6fc4c8 1-250
+requirements.txt
+  h_72b8bc3c6fc4c8 1-20
+scripts/__init__.py
+  h_72b8bc3c6fc4c8 1
+scripts/bench_serving_h200.py
+  h_72b8bc3c6fc4c8 1-727
+scripts/eval_inkling2_math.py
+  h_72b8bc3c6fc4c8 1-211
+scripts/eval_math_exact.py
+  h_72b8bc3c6fc4c8 1-730
+scripts/generate_figures.py
+  h_72b8bc3c6fc4c8 1-339
+scripts/score_math.py
+  h_72b8bc3c6fc4c8 1-155
+scripts/train_inkling2_sdtr.py
+  h_72b8bc3c6fc4c8 1-558
+scripts/train_sdtr_sft.py
+  h_72b8bc3c6fc4c8 1-512
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c309857cb0b58c129ba636af309ccdc4971f123f",
+  "prompts": {},
+  "humans": {
+    "h_72b8bc3c6fc4c8": {
+      "author": "yanghu819 <yanghu819@users.noreply.github.com>"
+    }
+  }
+}
