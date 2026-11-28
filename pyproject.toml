@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loop2d"
+version = "0.2.0"
+description = "2D-AttnRes: Unifying vertical depth routing and zero-KV horizontal recurrence in one shared Attention Residual pool"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.6.0",
+    "transformers>=4.51.0",
+    "safetensors>=0.4.5",
+    "numpy>=1.26.0",
+    "pyarrow>=15.0.0",
+    "matplotlib>=3.8.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["loop2d*", "scripts*"]
